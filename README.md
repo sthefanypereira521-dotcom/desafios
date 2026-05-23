@@ -11,5 +11,5 @@
 
 * date time registra cada hora e data de transaçoes
 
-* biblioteca rick  deixa o terminal  organizado  exibe tabelas
+* biblioteca rich  deixa o terminal  organizado  exibe tabelas
 
