@@ -47,7 +47,10 @@ Existe uma diferença entre poupança antiga (antes de maio/2012) e nova, mas ho
 **Prompts que  vou guardar pra usar de novo:**
 **Talvez em uma segunda versão do meu projeto, ja usando essas informações que agora estou ciente**
 
-Como funciona o rendimento da poupança em [ano]?,
-Como o aniversário da poupança afeta quem quer sacar o dinheiro?,
-Compare a poupança com [outro investimento],
-Quais as vantagens e desvantagens da poupança hoje?,
+Como funciona o rendimento da poupança em [ano]?:  
+  
+Como o aniversário da poupança afeta quem quer sacar o dinheiro?:
+
+Compare a poupança com [outro investimento]:
+
+Quais as vantagens e desvantagens da poupança hoje?:
