@@ -41,7 +41,7 @@ Tipo: deposita dia 10, se sacar dia 9 do mês seguinte (um dia antes), rendeu ze
 
 Existe uma diferença entre poupança antiga (antes de maio/2012) e nova, mas hoje, com a Selic alta, na prática rendem igual. O que me chamou atenção foi que a poupança pode render menos da metade de um CDB que paga 100% do CDI. Ou seja, é segura, mas não é a melhor opção se o objetivo é fazer o dinheiro crescer mais rápido.
 
-*Essa veio de primeira*
+*essa  veio  de  primeira*
 
 
 **Prompts que  vou guardar pra usar de novo:**
