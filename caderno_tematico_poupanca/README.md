@@ -23,7 +23,7 @@ Subi essas 3 fontes no NotebookLM:
 
 Descobri que o rendimento não é um número fixo, ele depende da Selic (taxa básica de juros). Hoje, com a Selic em 14,25%, a poupança rende 0,5% ao mês + a Taxa Referencial (TR), o que dá uns 6,17% ao ano.
 
-*Achei confuso no começo porque foi genérica. ai pedi  especificando o ano (2026) que ai ela  trouxe o número certo*
+### *Achei confuso no começo porque foi genérica. ai pedi  especificando o ano (2026) que ai ela  trouxe o número certo*
 
 
 
@@ -33,7 +33,7 @@ Essa foi a que mais me surpreendeu. A poupança só paga o rendimento a cada 30 
 
 Tipo: deposita dia 10, se sacar dia 9 do mês seguinte (um dia antes), rendeu zero.
 
-*Tive que perguntar de novo, de um jeito mais específico (como isso afeta os resgates?)*
+### *Tive que perguntar de novo, de um jeito mais específico (como isso afeta os resgates?)*
 
 
 
@@ -41,16 +41,18 @@ Tipo: deposita dia 10, se sacar dia 9 do mês seguinte (um dia antes), rendeu ze
 
 Existe uma diferença entre poupança antiga (antes de maio/2012) e nova, mas hoje, com a Selic alta, na prática rendem igual. O que me chamou atenção foi que a poupança pode render menos da metade de um CDB que paga 100% do CDI. Ou seja, é segura, mas não é a melhor opção se o objetivo é fazer o dinheiro crescer mais rápido.
 
-*essa a ia  acertou  de  primeira*
+### *essa a ia  acertou  de  primeira*
 
 
 **Prompts que  vou guardar pra usar de novo:**
-**Talvez em uma segunda versão do meu projeto, ja usando essas informações que agora estou ciente**
 
-Como funciona o rendimento da poupança em [ano]?:  
+**Talvez em uma segunda versão do meu projeto, 
+ja usando essas informações que agora estou ciente**
+
+Como funciona o rendimento da poupança em [ano]?  
   
 Como o aniversário da poupança afeta quem quer sacar o dinheiro?:
 
 Compare a poupança com [outro investimento]:
 
-Quais as vantagens e desvantagens da poupança hoje?:
+Quais as vantagens e desvantagens da poupança hoje?
