@@ -28,4 +28,4 @@ Projeto  para demonstrar uma arquitetura simples de sistema bancario utilizando 
 
 ## Repositorio do Projeto
 
-Link: https://github.com/sthefanypereira521-dotcom/projetos_em_python
+Link: https://github.com/sthefanypereira521-dotcom/sistema_bancario
